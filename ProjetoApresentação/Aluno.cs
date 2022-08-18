@@ -21,6 +21,8 @@ namespace ProjetoApresentação
             AlunoNome = alunoNome;
             DataNascimento = dataNascimento;
             this.Sexo = Sexo;
+
+
         }
         public override bool Equals(object? obj)
         {
